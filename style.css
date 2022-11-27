@@ -1,0 +1,84 @@
+*{
+    background-color: rgb(253, 251, 251);
+    margin: 0px;
+    font-family: ;
+}
+
+#cabecalho{
+    position: fixed;
+    background-color: #c6d1da;
+    top: 0px;
+    color: rgb(8, 8, 8);
+    width: 100%;
+    padding: 20px;
+}
+
+#titulo{
+    background-color: #c6d1da;
+    float: left;
+    width:100%;
+    text-align: center;
+}
+
+#minha_foto{
+    margin-left: 15px;
+    padding: px;
+    border: 1px;
+    margin-top: 100px;
+    width: 250px;
+    float: left;
+}
+
+#licoes_aprendidas{
+    font-size: medium;
+    color: steelblue;
+    line-height: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 100px;
+    width: 40%;
+    height: ;
+}
+
+#licoes_a_aprender{
+    width: 32%;
+}
+
+ul, ol{
+    display: inline-block;
+}
+
+.lado-direito{
+    float: right;
+    width: 45%;
+    margin-top: px;
+}
+
+.lado-esquerdo{
+    float: left;
+    width: 45%;
+    margin-left: 30px;
+    
+}
+
+#aprendizado{
+    text-align: center;
+    margin-top: 25px;
+}
+
+#tabela-hardskills{
+    margin: 10px;
+    margin-bottom: 50px;
+    margin-left: 530px;
+    width: 30%;
+}
+
+td{
+    line-height: 50px;
+    text-align: center;
+}
+
+#link{
+    margin-left: 85px;
+;
+}
+
